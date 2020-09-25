@@ -4,7 +4,8 @@
   "description": "A free and unlimited for Google Translate, Multi-translation support object input",
   "main": "index.js",
   "scripts": {
-    "test": "nyc ava"
+    "test": "nyc ava",
+    "install": "npm run build"
   },
   "keywords": [
     "translate",
