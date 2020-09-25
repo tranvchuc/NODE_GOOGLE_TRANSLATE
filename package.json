@@ -22,7 +22,7 @@
     "name": "shikar",
     "email": "qzh.shi@gmail.com"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "https://github.com/tranvchuc/NODE_GOOGLE_TRANSLATE.git"
