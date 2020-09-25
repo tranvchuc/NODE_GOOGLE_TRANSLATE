@@ -22,7 +22,7 @@
     "name": "shikar",
     "email": "qzh.shi@gmail.com"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/tranvchuc" },
   "repository": {
     "type": "git",
     "url": "https://github.com/tranvchuc/node_google_translate.git"
